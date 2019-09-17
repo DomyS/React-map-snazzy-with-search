@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Operahuset Oslo",
+      "name": "Operahuset Oslo",
+      "position": { "lat": -12.058553451600776, "lng": -77.0330945435819 }
+    },
+    {
+      "id": 2,
+      "title": "Vigelandsparken",
+      "name": "Operahuset Oslo",
+      "lat": 53.22952,
+      "lng": -4.129987
+    },
+    {
+      "id": 3,
+      "title": "Vikingshuset",
+      "name": "Operahuset Oslo",
+      "lat": 51.482708,
+      "lng": -3.165881
+    }
+  ]
+}
